@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sLs/JvGDnAVqILxgeQIlMIKpLw6qv/3V50OGXcH2UKIuMcJvy31bx6tixLCXoLNo/L+GM6uInblP0HXKaa007g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denis\\RiderProjects\\CloudStorage\\CloudStorage.Application\\CloudStorage.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denis\\.nuget\\packages\\file.typechecker\\4.0.0\\file.typechecker.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

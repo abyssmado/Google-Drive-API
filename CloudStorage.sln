@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudStorage.API", "CloudStorage.API\CloudStorage.API.csproj", "{23A0ACE2-DD16-4B4C-B28D-4C3F611435F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudStorage.Application", "CloudStorage.Application\CloudStorage.Application.csproj", "{CFE231CD-BE04-4514-B674-59456547307A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudStorage.Infrastructure", "CloudStorage.Infrastructure\CloudStorage.Infrastructure.csproj", "{7A4E7B69-05FE-4664-9AC0-D3E7725C00AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudStorage.Domain", "CloudStorage.Domain\CloudStorage.Domain.csproj", "{0E658BC8-E1BB-486A-8E07-94FBE79AE38B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A0ACE2-DD16-4B4C-B28D-4C3F611435F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A0ACE2-DD16-4B4C-B28D-4C3F611435F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A0ACE2-DD16-4B4C-B28D-4C3F611435F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A0ACE2-DD16-4B4C-B28D-4C3F611435F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE231CD-BE04-4514-B674-59456547307A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE231CD-BE04-4514-B674-59456547307A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE231CD-BE04-4514-B674-59456547307A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE231CD-BE04-4514-B674-59456547307A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4E7B69-05FE-4664-9AC0-D3E7725C00AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4E7B69-05FE-4664-9AC0-D3E7725C00AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4E7B69-05FE-4664-9AC0-D3E7725C00AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4E7B69-05FE-4664-9AC0-D3E7725C00AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E658BC8-E1BB-486A-8E07-94FBE79AE38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E658BC8-E1BB-486A-8E07-94FBE79AE38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E658BC8-E1BB-486A-8E07-94FBE79AE38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E658BC8-E1BB-486A-8E07-94FBE79AE38B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
